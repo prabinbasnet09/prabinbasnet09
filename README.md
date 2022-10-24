@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Basnet</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinbasnet09&label=Profile%20views&color=2dbb1a&style=plastic" alt="prabinbasnet09" /> </p>
 
