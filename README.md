@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F787&center=true&width=435&lines=Hi+%2C+I+am+Prabin+Basnet;I+am+a+CS+undergrad;I+am+from+Kathmandu%2C+Nepal;I+am+interested+in+cloud+computing+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F787&center=true&vCenter=true&width=435&lines=Hi+%2C+I+am+Prabin+Basnet;I+am+a+CS+undergrad;I+am+from+Kathmandu%2C+Nepal;I+am+interested+in+cloud+computing+)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinbasnet09&label=Profile%20views&color=2dbb1a&style=plastic" alt="prabinbasnet09" /> </p>
 
-<img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style = "display: block; height: 250px; width: 50%; margin: auto; padding: 20px" />
+<img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style = "display: block; margin: auto; padding: 20px" />
 
 <br />
 
