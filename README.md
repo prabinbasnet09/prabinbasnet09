@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [ACM Student Chapter at ULM Website](https://github.com/ACM-ULM-Developers/ACM-ULM-Website)
 
-- 🌱 I’m currently learning **React.js and Express.js**
+- 🌱 I’m currently learning **ASP.NET Core, Spring boot, Angular, and Next.js**
 
 - 👯 I’m looking to collaborate on **open source react projects**
 
