@@ -7,12 +7,13 @@
 <br />
 
 <div>
-
-<img src = "https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740" style = "display: flex; justify-content: center; align-items: center; border: 10px; padding: 20px" />
+<div align="center">
+  <img src = "https://miro.medium.com/v2/resize:fit:1400/0*xElCFdjugP93SSrD" style = "margin-left: 120px; width: 500px" />
+</div>
 
 - 🔭 I’m currently working on [ACM Student Chapter at ULM Website](https://github.com/ACM-ULM-Developers/ACM-ULM-Website)
 
-- 🌱 I’m currently learning **ASP.NET Core, Spring boot, Angular, and Next.js**
+- 🌱 I’m currently learning **RAG, LangGraph, LangChain, and MCP**
 
 - 👯 I’m looking to collaborate on **open source react projects**
 
