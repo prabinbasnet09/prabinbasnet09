@@ -8,7 +8,7 @@
 
 <div>
 
-<img src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style = "display: flex; justify-content: center; align-items: center; border: 10px; padding: 20px" />
+<img src = "https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740" style = "display: flex; justify-content: center; align-items: center; border: 10px; padding: 20px" />
 
 - 🔭 I’m currently working on [ACM Student Chapter at ULM Website](https://github.com/ACM-ULM-Developers/ACM-ULM-Website)
 
