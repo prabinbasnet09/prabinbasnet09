@@ -11,8 +11,6 @@
   <img src = "https://miro.medium.com/v2/resize:fit:1400/0*xElCFdjugP93SSrD" style = "margin-left: 120px; width: 500px" />
 </div>
 
-- 🔭 I’m currently working on [ACM Student Chapter at ULM Website](https://github.com/ACM-ULM-Developers/ACM-ULM-Website)
-
 - 🌱 I’m currently learning **RAG, LangGraph, LangChain, and MCP**
 
 - 👯 I’m looking to collaborate on **open source react projects**
